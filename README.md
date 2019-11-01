@@ -1,5 +1,5 @@
-# shakkialy
-UCI-protokollan mukainen tekoäly, joka on toteutettu javalla. Tekoälyä pystyy testata [lichess](https://lichess.org) sivulla.
+# Shakkialy
+UCI-protokollan mukainen shakkitekoäly, joka on toteutettu javalla. UCI-protokollan mukaan tekeminen mahdollistaa tekoälyn testaamisen [lichess](https://lichess.org) sivustolla.
 
 ## Dokumentaatio
 [Määrittelydokumentti](/Dokumentaatio/Määrittelydokumentti.md)
