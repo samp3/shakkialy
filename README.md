@@ -1,2 +1,4 @@
 # shakkialy
 Tekoäly shakkiin
+
+# Dokumentaatio
