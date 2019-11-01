@@ -1,4 +1,4 @@
-# Shakkialy
+# shakkialy
 UCI-protokollan mukainen shakkitekoäly, joka on toteutettu javalla. UCI-protokollan mukaan tekeminen mahdollistaa tekoälyn porttaamisen [lichess](https://lichess.org) sivustolle.
 
 ## Dokumentaatio
