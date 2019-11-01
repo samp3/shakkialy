@@ -13,4 +13,4 @@ Aiheen päättäminen on aina vaikeaa. UCL-protokolla on vielä epäselvä.
 #### Mitä teen seuraavaksi?
 Alan toteuttamaan itse ohjelmaa. Runko pitäisi olla valmiina ensi viikolla ja ehkä jokin peruna-tason tekoäly. Myös tekoälyn siirto lichess sivulle olisi kiva saada toimimaan, jotta toimintaa pystyy testaamaan.
 
-Aikaa kului n. 6 tuntia.
+Aikaa kului tällä viikolla n. 7 tuntia, jos luento ja aiheen tutkinta lasketaan mukaan.
