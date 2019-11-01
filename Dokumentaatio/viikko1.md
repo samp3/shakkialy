@@ -1,7 +1,7 @@
 Mitä olen tehnyt tällä viikolla?
 Valitsin aiheen ja ottanut selvää siitä. Teen shakkitekoälyn UCL-protokollan mukaan. UCL-protokolla mukaan tekeminen mahdollistaa tekoälyn siirtämisen lichess.com sivustolle, jossa sitä voi testata intuitiivisessa ympäristössä. Kirjoitan tekoälyn javalla. Tekoäly siirretään sillan kautta (joka on toteutettu pythonilla) lichess sivustolle. Tähän on selkeät ohjeet internetissä, joten ei pitäisi hirveästi tuottaa ongelmia.
 
-Miten ohjelma on edistynyt?\n
+Miten ohjelma on edistynyt?
 Ohjelma on päätetty ja ympäristö pystyssä. Lisäksi olen ottanut selvää miten se tehdään ja kerrannut vähän algoritmin toimintaa, jota tulen käyttämään.
 
 Mitä opin tällä viikolla / tänään?
