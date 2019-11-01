@@ -1,0 +1,2 @@
+# shakkialy
+Tekoäly shakkiin
