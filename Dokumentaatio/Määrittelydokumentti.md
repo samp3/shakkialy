@@ -9,7 +9,7 @@ Tekoälyä pitäisi pystyä pelaamaan vastaan lichess.com verkkosivulla. Jos kur
 
 ### Tavoitteena olevat aika- ja tilavaativuudet (m.m. O-analyysit)
 Alpha-beta karsinnan aikavaativuus on pahimmillaan O(b^d) ja parhaimmillaan tämän neliöjuuri (wikipedia). b = kuinka moneen haaraan pelitilanteet jakautuvat d = puun syvyys.
-Tilavaativuus on O(b*d). Nähin siis tähtään.
+Tilavaativuus on O(b*d). Nähin tähtään.
 
 ### Lähteet
 https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
