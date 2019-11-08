@@ -13,6 +13,7 @@ Opin käyttämään ohtuprojektina tehtyä shakkitekoäly-alustaa. Opin myös mi
 #### Mikä jäi epäselväksi tai tuottanut vaikeuksia? Vastaa tähän kohtaan rehellisesti, koska saat tarvittaessa apua tämän kohdan perusteella.
 
 On vielä epäselvyyksiä miten itse puun rakennan. Lisäksi siirtoalgoritmit ovat yllättävän monimutkaisia (pitää siis ottaa kaikki huomiion).
+En saanut travis CI näyttämään mitään, vaikka sen pitäisi automaattisesti alkaa päivittämään buildaamisen jälkeen. Lisäksi buildaamisen yhteydessä nään, että checkstyle testitkin ovat ja codecov ton travisin kautta.
 
 #### Mitä teen seuraavaksi?
 
