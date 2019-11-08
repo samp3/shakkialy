@@ -1,0 +1,5 @@
+#!/bin/bash
+./gradlew shadowJar
+cd build
+cd libs
+java -jar chess-all.jar
