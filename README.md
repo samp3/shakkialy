@@ -5,3 +5,4 @@ Javalla toteutettu shakkitekoäly, jota pystyy testaamaan kahdella eri alustalla
 [Määrittelydokumentti](/Dokumentaatio/Määrittelydokumentti.md)
 #### Viikkoraportit
 [viikko1](/Dokumentaatio/viikko1.md)
+[viikko2](/Dokumentaatio/viikko2.md)
